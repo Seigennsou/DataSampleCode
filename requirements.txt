@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+shap
+# timesfm is excluded here due to installation issues on Windows Python 3.12 (lingvo dependency).
+# Please install it manually using: pip install timesfm --no-deps
+utilsforecast
+einshape
+huggingface-hub
+accelerate
+jax
